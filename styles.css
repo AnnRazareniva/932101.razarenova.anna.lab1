@@ -132,10 +132,10 @@ img
 
 .footer
 {
-	padding-top: 15px;
-	padding-bottom: 15px;	
 	text-align:center;
 	background-color: green;
 	font-family:Arial;
-	
+	padding-top: 15px;
+	min-height:35px;
+	max-height:50px;
 }
